@@ -2,7 +2,8 @@ Redux and the React Context API with reducers serve similar purposes in managing
 
 Here are some reasons why you might want to use Redux over the Context API with reducers:
 
-Centralized state management: Redux provides a centralized store that holds the entire state of your application, which can make it easier to manage and debug as your application grows. With the Context API, you have to manage state across multiple contexts, which can become more complex as your application grows.
+Centralized state management: Redux provides a centralized store that holds the entire state of your application, which can make it easier to manage and debug as your application grows. 
+With the Context API, you have to manage state across multiple contexts, which can become more complex as your application grows.
 
 Performance: Redux is optimized for performance, and is built to handle large amounts of data without sacrificing speed. In contrast, the Context API with reducers can become slower as your application grows in complexity.
 
